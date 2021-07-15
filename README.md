@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Andrew Nevelich!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giroskop)](https://github.com/Giroskop/github-readme-stats)
 
 <!--
 **Giroskop/Giroskop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
