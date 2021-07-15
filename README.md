@@ -2,7 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giroskop&hide=PHP&layout=compact)](https://github.com/Giroskop/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giroskop&hide=prs)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giroskop)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
