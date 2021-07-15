@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Andrew Nevelich! 
 ## I am Frontend Developer.
 
-<hr>
 
 ## My main stack:
 ### frontend:
@@ -19,13 +18,13 @@
 ![Flutter](https://img.shields.io/badge/-nodejs-black?logoColor=38f2ffe&logo=nodejs&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-REST_API-black?logoColor=38f2ffe&logo=nodejs&style=for-the-badge)
 
-<hr>
+
 
 ## Also familiar with:
 ![Flutter](https://img.shields.io/badge/-MobX-black?logoColor=&logo=mobx&?messageColor=green&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-python-black?logoColor=38f2ffe&logo=python&style=for-the-badge)
 
-<hr>
+
 
 ## Github statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giroskop&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)
