@@ -1,5 +1,7 @@
-# Hi there 👋, my name is Andrew Nevelich! I am Frontend Developer.
+# Hi there 👋, my name is Andrew Nevelich! 
+## I am Frontend Developer.
 
+<hr>
 
 ## My main stack:
 ### frontend:
