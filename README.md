@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andrew Nevelich!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giroskop&layout=compact)](https://github.com/Giroskop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giroskop&&hide=PHP&layout=compact)](https://github.com/Giroskop/github-readme-stats)
 
 
 <!--
