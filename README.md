@@ -1,5 +1,5 @@
-# Hi there 👋, my name is Andrew Nevelich! 
-## I am Frontend Developer.
+# Hi there 👋!
+## My name is Andrew Nevelich. I am Frontend Developer.
 
 <hr>
 
