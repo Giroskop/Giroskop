@@ -20,13 +20,6 @@
 ![Flutter](https://img.shields.io/badge/-REST_API-black?logoColor=38f2ffe&logo=nodejs&style=for-the-badge)
 
 
-
-## Also familiar with:
-![Flutter](https://img.shields.io/badge/-MobX-black?logoColor=&logo=mobx&?messageColor=green&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-python-black?logoColor=38f2ffe&logo=python&style=for-the-badge)
-
-
-
 ## Github statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giroskop&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)
 
